@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I am Divyat ( <img src="https://img.shields.io/badge/Developer-FFD43B?style=flat&logo=python&logoColor=yellow&label=Python"> )</h2>
+<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I am Divyat ( <img src="https://img.shields.io/badge/Developer-FFD43B?style=flat&logo=python&logoColor=yellow&label=Node.js"> )</h2>
 <p align = "center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%23678A5D&width=400&lines=Blockchain+%26+Cybersecurity+Enthusiast;Azure+Certified+AI-Engineer;Learning+%26+Sharing;Part-time+Gardener">
 </p>
