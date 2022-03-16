@@ -1,6 +1,7 @@
 # Hi there, I'm Divyat 👋
-
-## I'm a Backend Developer!!
+<p align = "left">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23678A5D&width=400&lines=Backend+Developer;Blockchain+Enthusiast">
+</p>
 
 -   🔭 I love JavaScript
 -   🌱 I’m currently learning everything 🤣
