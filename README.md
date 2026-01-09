@@ -77,7 +77,7 @@ I’m comfortable operating in **ambiguity**, reviewing critical PRs, and influe
 - 💼 Open to senior backend / staff-level engineering roles  
 - 🧠 Happy to discuss system design, fintech architecture, or backend careers  
 - 📫 Reach out via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyat-samadhiya/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.divyat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4A4A4A?style=flat&logo=minutemailer&logoColor=white)](mailto:dev.divyat@gmail.com) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/imdiv_)
  
 
 ---
