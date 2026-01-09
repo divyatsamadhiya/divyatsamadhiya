@@ -1,25 +1,85 @@
-<h1 align="center">Hi 👋, I'm Divyat Samadhiya</h1>
-<h3 align="center">Software Engineer</h3>
+# 👋 Hi, I’m Divyat Samadhiya
 
-<p align="left"> <a href="https://twitter.com/imdiv_" target="blank"><img src="https://img.shields.io/twitter/follow/imdiv_?logo=twitter&style=for-the-badge" alt="imdiv_" /></a> </p>
+🚀 Backend Engineer | Fintech | Distributed Systems  
+📍 Bangalore, India
 
-- I'm a **experienced software engineer specializing in backend development. Proficient in TypeScript, Node.js, and AWS, with a strong understanding of microservices architecture, event-driven development, and CQRS. Skilled in writing comprehensive unit tests, system tests, and integration tests, and adept at managing testing and deployment pipelines. Continuously striving to deliver scalable and robust solutions while ensuring high code quality and performance. Passionate about leveraging technology to drive innovation and optimize financial processes**
+I’m a backend-focused software engineer with **6+ years of experience** building **reliable, scalable, and high-throughput systems**, primarily in **fintech and banking domains**. I enjoy working close to the core of complex systems—where correctness, performance, and resilience actually matter.
 
-- 💬 Ask me about **JavaScript, Nodejs, TypeScript, AWS**
+---
 
-- 📫 How to reach me: **sdivyatuniverse@outlook.com**
+## 🧠 What I Do Best
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imdiv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdiv_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyat-samadhiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyat-samadhiya" height="30" width="40" /></a>
-</p>
+- Design and build **distributed backend systems** that scale and fail gracefully  
+- Work extensively with **event-driven architectures**, **CQRS**, and **event sourcing**  
+- Build **AWS-native microservices** used in real-world financial pipelines  
+- Own features end-to-end: from design → implementation → production support  
+- Write **clean, testable, production-grade code** (not just code that “works”)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyatsamadhiya&show_icons=true&locale=en&layout=compact" alt="divyatsamadhiya" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyatsamadhiya&show_icons=true&locale=en" alt="divyatsamadhiya" /></p>
+**Languages & Runtime**
+- TypeScript / JavaScript (Node.js)
+- SQL & NoSQL data modeling
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyatsamadhiya&" alt="divyatsamadhiya" /></p>
+**Backend & Architecture**
+- Microservices, REST APIs, Event-driven systems  
+- CQRS, Event Sourcing, Idempotent workflows  
+- High-volume transaction processing
+
+**Databases**
+- MongoDB / DocumentDB  
+- DynamoDB  
+- PostgreSQL  
+
+**Cloud & DevOps**
+- AWS (Lambda, S3, SNS/SQS, DynamoDB, CloudWatch, ECS, Batch)
+- Infrastructure-aware development
+- Observability, logging, and metrics-first mindset
+
+**Testing**
+- Jest
+- Unit, System & integration testing  
+
+---
+
+## 🏦 Domain Experience
+
+- Core banking & fintech platforms  
+- Payment processing & settlement pipelines  
+- Ledger consistency & reconciliation systems  
+- Handling edge cases in **money movement** (the hard parts 😄)
+
+---
+
+## 🧩 How I Think
+
+- **Correctness > Cleverness**
+- **Simple systems scale better than complex ones**
+- Production issues are feedback, not failures
+- Good abstractions reduce cognitive load for teams
+
+I’m comfortable operating in **ambiguity**, reviewing critical PRs, and influencing system design across teams—while still being hands-on with code.
+
+---
+
+## 📈 Currently Exploring
+
+- Backend technical leadership & system design at scale  
+- Improving developer velocity using **AI-assisted tooling**  
+- Building systems that are easier to reason about under failure  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to senior backend / staff-level engineering roles  
+- 🧠 Happy to discuss system design, fintech architecture, or backend careers  
+- 📫 Reach out via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyat-samadhiya/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:divyatsamadhiya@gmail.com)
+ 
+
+---
+
+> _“The best backend systems are invisible—until they fail. My goal is to keep them invisible.”_
